@@ -23,5 +23,10 @@ build/
 
 # OS specific
 .DS_Store
-Thumbs.db# Ignore documentation folder
+Thumbs.db
+
+# Ignore documentation folder
 doc/
+
+# Domain lists
+domains.txt
